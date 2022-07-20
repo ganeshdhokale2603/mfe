@@ -1,5 +1,5 @@
 module.exports = {
-  module: {
+  module: { 
     rules: [
       {
         test: /\.m?js$/,
