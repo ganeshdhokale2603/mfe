@@ -4,7 +4,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": { 
+  "dependencies": {
     "chart.js": "^2.9.4",
     "primeflex": "^2.0.0",
     "primeicons": "^4.0.0",
